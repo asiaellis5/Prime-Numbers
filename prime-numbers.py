@@ -6,6 +6,8 @@ def prime_numbers_to_100():
        if(val % i == 0):
          count += 1
          break
+     if(count == 0 and val != 1):
+       print(val)
 
 
 
