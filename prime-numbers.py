@@ -15,4 +15,4 @@ t0 = time()
 prime_numbers_to_100()
 t1= time()
 
-print(t1 - t0)
+print("Time taken:", t1 - t0)

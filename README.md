@@ -1,6 +1,6 @@
 # Prime Numbers to 100
 
-Simple python programme that displays the prime numbers between 1 and 100
+Simple python programme that displays the prime numbers between 1 and 100.
 
 ## Setup
 
@@ -18,7 +18,7 @@ Then navigate into the directory and make sure you have jupyter downloaded, by r
 pip3 install jupyter
 ```
 
-Or if you have `conda` downloaded by running:
+Or if you have `conda` download by running:
 
 ```
 conda install jupyter
@@ -47,6 +47,10 @@ jupyter notebook
 ```
 
 And open the `prime_numbers.ipynb` file to see the code and the output.
+
+## Example
+
+<img src='./public/images/prime-numbers.png' width="5000"/>
 
 
 
